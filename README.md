@@ -5,13 +5,13 @@
 ---
 
 ## 👨‍💻 About Me
-🔭 I’m currently working on:
+-- 🔭 I’m currently working on:
 React & React Native applications with a focus on scalable component architecture and clean UI.
 
-👯 I’m looking to collaborate on:
+-- 👯 I’m looking to collaborate on:
 Frontend-heavy products, React/React Native projects, and early-stage startup ideas.
 
-🤝 I’m looking for help with:
+--🤝 I’m looking for help with:
 Advanced system design, performance optimization, and large-scale frontend architecture.
 
 🌱 I’m currently learning:

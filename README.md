@@ -82,7 +82,8 @@ I enjoy building clean UI, reusable component architectures, and user-friendly p
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/akhilesh-verma0095  
 - 📧 Email: akhileshverma207@gmail.com  
-- 💻 GitHub: https://github.com/AkhileshVe  
+- 💻 GitHub: https://github.com/AkhileshVe
+- 🧠 LeetCode: https://leetcode.com/u/Akhilesh207/  
 
 ---
 

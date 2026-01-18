@@ -5,12 +5,23 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Building **scalable web & mobile applications** using React & React Native  
-- 🌱 Learning **Frontend System Design, Generative AI & Data Analytics**  
-- 💬 Ask me about **React, React Native, JavaScript, State Management**  
-- 👯 Open to collaborating on **product-based startups & frontend-heavy projects**  
-- ⚡ Fun fact: I enjoy turning complex UI problems into simple, reusable components
+🔭 I’m currently working on:
+React & React Native applications with a focus on scalable component architecture and clean UI.
 
+👯 I’m looking to collaborate on:
+Frontend-heavy products, React/React Native projects, and early-stage startup ideas.
+
+🤝 I’m looking for help with:
+Advanced system design, performance optimization, and large-scale frontend architecture.
+
+🌱 I’m currently learning:
+Python for data processing (NumPy, Pandas, Matplotlib), SQL & MongoDB, Django & REST APIs (FastAPI/Flask), Machine Learning & Deep Learning (NLP, CV), Generative AI & LLMs, and Data Analytics with Power BI & Advanced Excel.
+
+💬 Ask me about:
+React, React Native, state management (Redux/Zustand), component design, and UI performance.
+
+⚡ Fun fact:
+I enjoy breaking complex problems into simple, reusable components.
 ---
 
 ## 🛠️ Tech Stack

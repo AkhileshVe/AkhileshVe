@@ -1,60 +1,62 @@
-# Hi 👋, I'm Akhilesh Verma
+# Hi 👋, I'm Akhilesh Verma  
 
-### Crafting clean & scalable frontend experiences from India 🇮🇳
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%26+React+Native+Developer;Frontend+System+Design+Learner;Exploring+AI+%26+Data+Analytics" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
--- 🔭 I’m currently working on:
-React & React Native applications with a focus on scalable component architecture and clean UI.
+### 🚀 Frontend Developer | React & React Native | AI Learner  
 
--- 👯 I’m looking to collaborate on:
-Frontend-heavy products, React/React Native projects, and early-stage startup ideas.
+Welcome to my GitHub profile!  
+I’m a **passionate frontend developer** with 3+ years of experience building **scalable web and mobile applications** using React and React Native.  
+Currently, I’m expanding my skill set into **frontend system design, AI, and data analytics** while working on real-world projects.
 
---🤝 I’m looking for help with:
-Advanced system design, performance optimization, and large-scale frontend architecture.
+I enjoy building clean UI, reusable component architectures, and user-friendly products.
 
-🌱 I’m currently learning:
-Python for data processing (NumPy, Pandas, Matplotlib), SQL & MongoDB, Django & REST APIs (FastAPI/Flask), Machine Learning & Deep Learning (NLP, CV), Generative AI & LLMs, and Data Analytics with Power BI & Advanced Excel.
-
-💬 Ask me about:
-React, React Native, state management (Redux/Zustand), component design, and UI performance.
-
-⚡ Fun fact:
-I enjoy breaking complex problems into simple, reusable components.
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### 🎨 Frontend
+- React.js, React Native  
+- JavaScript, TypeScript  
+- HTML5, CSS3, Bootstrap, Tailwind CSS  
 
 ### 🧠 State Management
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+- Redux, Redux Toolkit, Zustand, Context API  
 
 ### 🔗 Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+- Django, FastAPI, Flask  
+- REST APIs, Firebase  
 
-### 🗄️ Databases & Data
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 🗄️ Databases
+- SQL, MongoDB  
+
+### 📊 Data & AI
+- Python (NumPy, Pandas, Matplotlib, Seaborn)  
+- Machine Learning & Deep Learning (NLP, CV)  
+- Generative AI & LLM Integration  
+
+### 🛠️ Tools
+- Git, GitHub, VS Code, Postman  
+- Power BI, Advanced Excel  
 
 ---
 
 ## 🌱 Currently Learning
 - Frontend System Design & Scalable React Architecture  
-- Machine Learning, Deep Learning (NLP, CV)  
-- Generative AI & LLM Integration  
-- Data Analytics with Power BI & Advanced Excel  
+- Machine Learning & Deep Learning  
+- Generative AI & LLM Customization  
+- Data Analytics & Visualization  
+
+---
+
+## 🏆 Highlights
+- Built multiple **production-ready React & React Native applications**  
+- Worked on **scalable component abstractions** and performance optimization  
+- Hands-on experience integrating **APIs, authentication, and push notifications**  
+- Actively improving system design thinking for frontend applications  
 
 ---
 
@@ -67,6 +69,14 @@ I enjoy breaking complex problems into simple, reusable components.
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshVe&theme=flat&no-frame=true)
 
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshVe&theme=react" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
@@ -76,4 +86,4 @@ I enjoy breaking complex problems into simple, reusable components.
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*

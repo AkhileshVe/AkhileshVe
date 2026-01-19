@@ -5,6 +5,8 @@
 </p>
 
 ---
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhileshVe&theme=github_dark)
+
 
 ### 🚀 Frontend Developer | React & React Native | AI Learner  
 

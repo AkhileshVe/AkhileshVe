@@ -18,6 +18,12 @@ I enjoy building clean UI, reusable component architectures, and user-friendly p
 
 ---
 
+
+## 🏆 Skills
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,nodejs,express,firebase,mongodb,git,github,vscode,postman,python,figma)
+
+
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -64,12 +70,6 @@ I enjoy building clean UI, reusable component architectures, and user-friendly p
 
 ## 📊 GitHub Stats
 ![Akhilesh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhileshVe&theme=github_dark)
-
----
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AkhileshVe&theme=flat&no-frame=true)
-
 
 ---
 

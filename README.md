@@ -64,7 +64,6 @@ I enjoy building clean UI, reusable component architectures, and user-friendly p
 
 ## 📊 GitHub Stats
 ![Akhilesh's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhileshVe&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshVe&layout=compact&theme=react)
 
 ---
 
@@ -76,9 +75,7 @@ I enjoy building clean UI, reusable component architectures, and user-friendly p
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshVe&theme=react" />
   
-
  ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkhileshVe&theme=github_dark)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkhileshVe&theme=github_dark)
 </p>

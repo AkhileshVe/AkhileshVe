@@ -11,7 +11,7 @@
 ### 🚀 Frontend Developer | React & React Native | AI Learner  
 
 Welcome to my GitHub profile!  
-I’m a **passionate frontend developer** with 3+ years of experience building **scalable web and mobile applications** using React and React Native.  
+I’m a **passionate frontend developer** with 4+ years of experience building **scalable web and mobile applications** using React and React Native.  
 Currently, I’m expanding my skill set into **frontend system design, AI, and data analytics** while working on real-world projects.
 
 I enjoy building clean UI, reusable component architectures, and user-friendly products.
